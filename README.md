@@ -1,4 +1,5 @@
-# ccc - Common Computer Crap - Things I'm tired of Implementing.
+# ccc - Common Computer Crap
+Things I'm tired of reimplementing.
 # Description
 Contains the following:
   Bitwise integer representation
